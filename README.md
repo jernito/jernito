@@ -1,8 +1,8 @@
 ## Hello 🖖, I'm Jernito Naisso
-### A passionate junior fullstack developer
+### A passionate junior Test Automation Engineer
 
 
-- 🌱 I’m currently learning **Angular,JAVA**
+- 🌱 I’m currently learning **Playwright**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/jernitonaisso](https://troopl.com/jernitonaisso)
 
